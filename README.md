@@ -36,7 +36,9 @@ Este repositório foi desenvolvido como parte de um desafio da DIO com o objetiv
 - **Markdown (GitHub)**: para documentação estruturada e acessível.
 
 ## Estrutura do Repositório
+
 PROJECT BASE/
+
     data/
     ├── processed_data/
     │ └── Arquivos Base/
